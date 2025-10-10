@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="AccumulationRegister.ОстаткиНоменклатуры" id="432088e7-ec41-4804-8ff1-90f185f80a1c" configVersion="d7808d7cdf6fa757a634258953773bd83b31ebbf">
+			<Metadata name="AccumulationRegister.ОстаткиНоменклатуры.Resource.Сумма" id="385613aa-b895-4c29-a1a8-f74a58f05a1c"/>
+			<Metadata name="AccumulationRegister.ОстаткиНоменклатуры.Resource.Количество" id="3feca533-535b-4ba2-b64f-197f228fd7e4"/>
+			<Metadata name="AccumulationRegister.ОстаткиНоменклатуры.Dimension.Номенклатура" id="db192890-81ad-435b-88dd-2c8f2479536c"/>
+		</Metadata>
+		<Metadata name="Catalog.Номенклатура" id="ef6378d2-32a3-4acf-9787-fcd3e222e16e" configVersion="6cc124bfdb4cc106145b2519fedf1589b23fee95">
+			<Metadata name="Catalog.Номенклатура.Attribute.ВидНоменклатуры" id="564b1b1d-ae72-4787-aa59-279d77d1c1e2"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.Цвет" id="e736831a-dbc8-44c5-9edf-69e61f371439"/>
+		</Metadata>
+		<Metadata name="Catalog.Цвета" id="c00438a0-e79f-4e5f-8a66-e078a0710a36" configVersion="d0377b02fceb00833a2d1d2da620e2a0a5c78a8b"/>
+		<Metadata name="Configuration.РасширениеПриход" id="2fb57045-9ae0-43dd-8bec-eaf15f830750" configVersion="07697a2c80797feec6d414921d465651c62f257f"/>
+		<Metadata name="Document.ПриходНоменклатуры" id="0badf28a-dc8e-4e9f-8c64-d01da630fe35" configVersion="79a750b28c3ffbc643de79af13015fbcc94f7e31">
+			<Metadata name="Document.ПриходНоменклатуры.TabularSection.СписокНоменклатуры.Attribute.Количество" id="7c9b4fd6-6b29-49ca-af87-64f03dee2a3f"/>
+			<Metadata name="Document.ПриходНоменклатуры.TabularSection.СписокНоменклатуры.Attribute.Номенклатура" id="a635124d-74cd-41ed-83a9-46c1aba344f8"/>
+			<Metadata name="Document.ПриходНоменклатуры.TabularSection.СписокНоменклатуры.Attribute.Цена" id="b1059d52-9b51-46a4-acae-a04be5cfe7cc"/>
+			<Metadata name="Document.ПриходНоменклатуры.Attribute.СуммаПоДокументу" id="d122c30e-44db-4aab-bf79-f3e59fecf94b"/>
+			<Metadata name="Document.ПриходНоменклатуры.TabularSection.СписокНоменклатуры.Attribute.Сумма" id="dc1daa58-acea-4501-84dc-8ece98249845"/>
+			<Metadata name="Document.ПриходНоменклатуры.TabularSection.СписокНоменклатуры" id="e331f4ff-ce49-489c-a539-1bcd98904f5c"/>
+		</Metadata>
+		<Metadata name="Document.ПриходНоменклатуры.Form.ФормаДокумента" id="9b0b89d6-4ed6-43eb-9810-baa2ad091052" configVersion="55ae01c317ec2f9fd0d917bf9b39791e0728aca9"/>
+		<Metadata name="Document.ПриходНоменклатуры.Form.ФормаДокумента.Form" id="9b0b89d6-4ed6-43eb-9810-baa2ad091052.0" configVersion="834d6f9edf347c9220a5e434a1a959cd3dffe3ed"/>
+		<Metadata name="Document.ПриходНоменклатуры.ObjectModule" id="0badf28a-dc8e-4e9f-8c64-d01da630fe35.0" configVersion="282cb0d080d4ec4451446d43a45ec1c64a5c0578"/>
+		<Metadata name="Enum.ВидыНоменклатуры" id="93523fb3-4d80-4b60-90c1-1bbce75c3d82" configVersion="6750010620428cbecf89ffb3ac68351fef7de1ed">
+			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Товар" id="c3f26ae4-21fb-4c13-b700-bbc1cee936c6"/>
+			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Услуга" id="f9662e37-aa5e-4faf-a47a-e5b59685de58"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="de0db1fb-9e55-4f9c-bb35-ce9c1b71c2a3" configVersion="56af456fa794ed9348d7bfe66510ae03b11af19e"/>
+		<Metadata name="Report.РасшПриход_ОстаткиНоменклатуры" id="d921ea3e-5027-4dba-aaef-174a356a0048" configVersion="b5a386b083a8fe0da4a44e6c2b8ca324bd77e607"/>
+		<Metadata name="Report.РасшПриход_ОстаткиНоменклатуры.Template.ОсновнаяСхемаКомпоновкиДанных" id="09193537-827d-4ada-bccd-6ad73c8de6f4" configVersion="bea91c962c3cf88aa964b60d558781ff749a44bc"/>
+		<Metadata name="Report.РасшПриход_ОстаткиНоменклатуры.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="09193537-827d-4ada-bccd-6ad73c8de6f4.0" configVersion="83c0900d94dd1f363d8304f57c51f1f5290113c6"/>
+		<Metadata name="Role.РасшПриход_ОсновнаяРоль" id="38a49748-b1f3-46a1-94ad-d88bc9fd7dff" configVersion="d5cf4e88a57f98577cbbc08d599e9779688b9ced"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
