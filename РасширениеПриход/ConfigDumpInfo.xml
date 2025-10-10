@@ -6,12 +6,14 @@
 			<Metadata name="AccumulationRegister.ОстаткиНоменклатуры.Resource.Количество" id="3feca533-535b-4ba2-b64f-197f228fd7e4"/>
 			<Metadata name="AccumulationRegister.ОстаткиНоменклатуры.Dimension.Номенклатура" id="db192890-81ad-435b-88dd-2c8f2479536c"/>
 		</Metadata>
-		<Metadata name="Catalog.Номенклатура" id="ef6378d2-32a3-4acf-9787-fcd3e222e16e" configVersion="6cc124bfdb4cc106145b2519fedf1589b23fee95">
+		<Metadata name="Catalog.Материалы" id="3cb2c91c-0ab1-4d8f-995e-c789f3f082f3" configVersion="5efdf38aaebfcbd313779eb9f4dd4b8c0a3bee9d"/>
+		<Metadata name="Catalog.Номенклатура" id="ef6378d2-32a3-4acf-9787-fcd3e222e16e" configVersion="78023c460ba7c01278d1eb22118eb78ec8803ce8">
 			<Metadata name="Catalog.Номенклатура.Attribute.ВидНоменклатуры" id="564b1b1d-ae72-4787-aa59-279d77d1c1e2"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.РасшПриход_РеквизитМатериал" id="b9a50958-5774-456d-bb4c-2781ddc87fb2"/>
 			<Metadata name="Catalog.Номенклатура.Attribute.Цвет" id="e736831a-dbc8-44c5-9edf-69e61f371439"/>
 		</Metadata>
 		<Metadata name="Catalog.Цвета" id="c00438a0-e79f-4e5f-8a66-e078a0710a36" configVersion="d0377b02fceb00833a2d1d2da620e2a0a5c78a8b"/>
-		<Metadata name="Configuration.РасширениеПриход" id="2fb57045-9ae0-43dd-8bec-eaf15f830750" configVersion="07697a2c80797feec6d414921d465651c62f257f"/>
+		<Metadata name="Configuration.РасширениеПриход" id="2fb57045-9ae0-43dd-8bec-eaf15f830750" configVersion="3ededfcb4168c12bf20091e1c216e659551e1673"/>
 		<Metadata name="Document.ПриходНоменклатуры" id="0badf28a-dc8e-4e9f-8c64-d01da630fe35" configVersion="79a750b28c3ffbc643de79af13015fbcc94f7e31">
 			<Metadata name="Document.ПриходНоменклатуры.TabularSection.СписокНоменклатуры.Attribute.Количество" id="7c9b4fd6-6b29-49ca-af87-64f03dee2a3f"/>
 			<Metadata name="Document.ПриходНоменклатуры.TabularSection.СписокНоменклатуры.Attribute.Номенклатура" id="a635124d-74cd-41ed-83a9-46c1aba344f8"/>

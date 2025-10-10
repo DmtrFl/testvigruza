@@ -68,6 +68,7 @@
 			<Role>РасшПриход_ОсновнаяРоль</Role>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Цвета</Catalog>
+			<Catalog>Материалы</Catalog>
 			<Document>ПриходНоменклатуры</Document>
 			<Enum>ВидыНоменклатуры</Enum>
 			<Report>РасшПриход_ОстаткиНоменклатуры</Report>
